@@ -1,4 +1,4 @@
-gameName = 'Fifa23'
+gameName = 'Fifa 23'
 gameDescription = '''
 Fifa 23 é um jogo de futebol
 desenvolvido pela EA Sports
@@ -12,10 +12,10 @@ localmente ou online.
 print(gameName [0:])
 
 # Busque toda string até a última posição
-print(gameName[:6])
+print(gameName[:7])
 
-#Busque toda string da primeira até a última posição
-print(gameName[0:6])
+#Busque toda string da terceira até a última posição
+print(gameName[2:])
 
 """
 string[início:fim:passo] - índice começa com 0 | índice final -1 | 
