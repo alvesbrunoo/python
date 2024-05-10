@@ -1,4 +1,4 @@
-# Cácilp da distância
+# Cáculo da distância
 
 # distance = float(input('Digite a distância a percorrer\n'))
 
