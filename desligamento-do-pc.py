@@ -9,13 +9,13 @@ def off():
     
 # # Cancelando o desligamento
 def cancel():
-    os.system('shutdown/a')
+    os.system('shutdown /a')
     
 # # Desliga em 1h
 def oneHour():
-    os.system('sutdown/s t3600')
+    os.system('sutdown /s /t3600')
     
 # # Deslliga em 30min
 def hafAnHour():
-    os.system('shoutdown/s/t 1800')
+    os.system('shoutdown /s/t 1800')
 
