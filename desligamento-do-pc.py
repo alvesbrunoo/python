@@ -17,5 +17,5 @@ def oneHour():
     
 # # Deslliga em 30min
 def hafAnHour():
-    os.system('shoutdown/s/t 180')
+    os.system('shoutdown/s/t 1800')
 
